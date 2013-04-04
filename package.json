@@ -1,0 +1,35 @@
+{
+  "name": "poly-line",
+  "version": "0.0.0",
+  "description": "Generate paths and cycles",
+  "main": "poly_line.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/poly-line.git"
+  },
+  "keywords": [
+    "path",
+    "cycle",
+    "polygon",
+    "cell",
+    "edge",
+    "graph",
+    "simplex",
+    "line",
+    "vertex"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "e44529b957b010174336ba7b058388a3c388f6fb"
+}
